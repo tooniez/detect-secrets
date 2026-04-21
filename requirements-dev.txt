@@ -25,7 +25,7 @@ pyahocorasick==2.1.0
 pycodestyle==2.12.1
 pyflakes==3.2.0
 pyparsing==3.1.2
-pytest==7.4.3
+pytest==9.0.3
 PyYAML==6.0.1
 requests==2.32.4
 responses==0.25.3
